@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/nos-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/nos-logo-light.png">
+    <img alt="NOS Logo" src="images/nos-logo-light.png" width="200">
+  </picture>
+</p>
+
 # Customize Your GitHub Copilot Experience
 
 _Customize GitHub Copilot's behavior with custom instructions, prompts, and custom agents for your specific development workflows._
