@@ -34,7 +34,7 @@ To work with custom instructions, let's first set up our development environment
 
 1. Confirm the **Repository** field is your copy of the exercise, not the original, then click the green **Create Codespace** button.
    - ✅ Your copy: `/{{full_repo_name}}`
-   - ❌ Original: `/skills/customize-your-github-copilot-experience`
+   - ❌ Original: `/nosportugal/flai-workshop-github-copilot-200`
 
 1. Wait a moment for Visual Studio Code to load in your browser and for all extensions to install.
    - Ensure the **Live Preview** extension is activated.
